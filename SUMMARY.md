@@ -10,7 +10,7 @@
     * [1.IoC容器](Core/1.The-IoC-Container.md)
         * [1.1.IoC容器和Beans介绍](Core/1.1Introduction-to-the-Spring-IoC-Container-and-Beans.md)
         * [1.2.IoC容器概述](Core/1.2Container-Overview.md)
-        * [1.3.Bean概述](Core/1.3Bean-Overview.md)
+        * [1.3.Bean 概述](Core/1.3Bean-Overview.md)
         * [1.4.依赖](Core/1.4Dependencies.md)
         * [1.5.Bean范围](Core/1.5Bean-Scopes.md)
         * [1.6.自定义Bean](Core/1.6Customizing-the-Nature-of-a-Bean.md)
