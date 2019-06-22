@@ -27,14 +27,14 @@
         * [1.16 BeanFactory](Core/1.16The-BeanFactory.md)
         
 
-    * [2.资源](Core/2.Resources.md)
-        * [2.1介绍](Core/2.1Introduction.md)
-        * [2.2资源接口]()
-        * [2.3内置资源实现]()
-        * [2.4ResourceLoader]()
-        * [2.5ResourceLoaderAware接口]()
-        * [2.6资源作为依赖]()
-        * [2.7应用程序上下文和资源路径]()
+        * [2.资源](Core/2.Resources.md)
+            * [2.1介绍](Core/2.1Introduction.md)
+            * [2.2资源接口]()
+            * [2.3内置资源实现]()
+            * [2.4ResourceLoader]()
+            * [2.5ResourceLoaderAware接口]()
+            * [2.6资源作为依赖]()
+            * [2.7应用程序上下文和资源路径]()
             
     * [3.验证，数据绑定，和类型转换]()
     * [4.SpEL Spring表达式语言]()
