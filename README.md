@@ -8,17 +8,16 @@ Spring Framework Documentation 5.1.8.RELEASE 中文翻译版本
 可访问如下网站地址：
 - https://docs.flydean.com/spring-framework-documentation5-1-8/
 
+# 意见、建议
+
+如果有意见或者建议请指正 https://github.com/ddean2009/Spring-Framework-Documentation/issues
+
 
 ## 翻译计划
 
 
-- [ ] I. Spring Framework Documentation
-- [ ] II. Spring Framework Overview
-    - [ ] What We Mean by "Spring"
-    - [ ] History of Spring and the Spring Framework
-    - [ ] Design Philosophy
-    - [ ] Feedback and Contributions
-    - [ ] Getting Started
+- [x] I. Spring Framework Documentation
+- [x] II. Spring Framework Overview
 - [ ] III. Core Technologies
 - [ ] IV. Testing
 - [ ] V. Data Access
