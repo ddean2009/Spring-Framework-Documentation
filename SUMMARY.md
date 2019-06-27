@@ -19,7 +19,7 @@
         * [1.8 容器扩展点](Core/1.8Container-Extension-Points.md)
         * [1.9 基于注解的容器配置](Core/1.9Annotation-based-Container-Configuration.md)
         * [1.10 类路径扫描和托管组件](Core/1.10Classpath-Scanning-and-Managed-Components.md)
-        * [1.11 使用JSR 330标准注释](Core/1.11Using-JSR-330-Standard-Annotations.md)
+        * [1.11 使用JSR 330标准注解](Core/1.11Using-JSR-330-Standard-Annotations.md)
         * [1.12 基于Java的容器配置](Core/1.12Java-based-Container-Configuration.md)
         * [1.13 环境抽象](Core/1.13Environment-Abstraction.md)
         * [1.14 注册LoadTimeWeaver](Core/1.14Registering-a-LoadTimeWeaver.md)
