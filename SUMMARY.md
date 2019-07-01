@@ -27,7 +27,7 @@
         * [1.16 BeanFactory](Core/1.16The-BeanFactory.md)
     * [2.资源](Core/2.Resources.md)
         * [2.1介绍](Core/2.1Introduction.md)
-        * [2.2资源接口]()
+        * [2.2资源接口](Core/2.2Resource-interface.md)
         * [2.3内置资源实现]()
         * [2.4ResourceLoader]()
         * [2.5ResourceLoaderAware接口]()
