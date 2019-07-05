@@ -37,6 +37,7 @@
         * [3.1使用Spring Validator接口](Core/3.1Spring-validator-interface.md)
         * [3.2将代码解析为错误消息](Core/3.2Resolving-Codes-to-Error-Messages.md)
         * [3.3bean操作和BeanWrapper](Core/3.3BeanWrapper.md)
+        * [3.4Spring类型转换](Core/3.4Spring-type-conversion.md)
     * [4.SpEL Spring表达式语言]()
     * [5.AOP面向切面]()
     * [6.Spring AOP APIs]()
