@@ -50,6 +50,7 @@
         * [5.1Spring AOP的能力和目标](Core/5.2Spring-AOP-Capabilities-and-Goals.md)
         * [5.3AOP代理](Core/5.3AOP-Proxies.md)
         * [5.4@AspectJ 支持](Core/5.4AspectJ-support.md)
+        * [5.5基于架构的AOP支持](Core/5.5Schema-based-AOP-Support.md)
     * [6.Spring AOP APIs]()
     * [7.Null-safety]()
     * [8.数据缓存和解码器]()
