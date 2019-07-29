@@ -51,6 +51,9 @@
         * [5.3AOP代理](Core/5.3AOP-Proxies.md)
         * [5.4@AspectJ 支持](Core/5.4AspectJ-support.md)
         * [5.5基于架构的AOP支持](Core/5.5Schema-based-AOP-Support.md)
+        * [5.6选择要使用的AOP声明样式](Core/5.6which-aop-style.md)
+        * [5.7混合Aspect类型](Core/5.7Mixing-Aspect-Types.md)
+        * 
     * [6.Spring AOP APIs]()
     * [7.Null-safety]()
     * [8.数据缓存和解码器]()
