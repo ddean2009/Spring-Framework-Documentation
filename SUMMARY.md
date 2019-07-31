@@ -53,7 +53,9 @@
         * [5.5基于架构的AOP支持](Core/5.5Schema-based-AOP-Support.md)
         * [5.6选择要使用的AOP声明样式](Core/5.6which-aop-style.md)
         * [5.7混合Aspect类型](Core/5.7Mixing-Aspect-Types.md)
-        * 
+        * [5.8代理机制](Core/5.8Proxying-Mechanisms.md)
+        * [5.9程序创建@AspectJ代理](Core/5.9Program-Creat-AspectJ-Proxies.md)
+        * [5.10在Spring应用程序中使用AspectJ](Core/5.10Using-AspectJ-with-Spring.md)
     * [6.Spring AOP APIs]()
     * [7.Null-safety]()
     * [8.数据缓存和解码器]()
