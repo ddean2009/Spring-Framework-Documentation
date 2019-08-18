@@ -58,6 +58,8 @@
         * [5.10在Spring应用程序中使用AspectJ](Core/5.10Using-AspectJ-with-Spring.md)
         * [5.11更多资源](Core/5.11Further-Resources.md)
     * [6.Spring AOP APIs](Core/6.Spring-AOP-APIs.md)
+        * [6.1Pointcut API](Core/6.1Pointcut-API.md)
+        * [6.2Advice API](Core/6.2Advice-API.md)
     * [7.Null-safety]()
     * [8.数据缓存和解码器]()
     * [9.附录]() 
