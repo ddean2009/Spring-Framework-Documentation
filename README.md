@@ -24,8 +24,8 @@ Spring Framework Documentation 5.1.8.RELEASE 中文翻译版本
     - [X] 3.Validation,Data Binding,and Type Conversion
     - [X] 4.SPEL
     - [X] 5.Aspect Oriented Programming with Spring
-    - [ ] 6.Spring AOP APIs
-    - [ ] 7.Null-safety
+    - [X] 6.Spring AOP APIs
+    - [X] 7.Null-safety
     - [ ] 8.Data Buffers and Codecs
     - [ ] 9.Appendix 
 - [ ] IV. Testing
