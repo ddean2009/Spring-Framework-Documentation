@@ -18,7 +18,7 @@ Spring Framework Documentation 5.1.8.RELEASE 中文翻译版本
 
 - [x] I. Spring Framework Documentation
 - [x] II. Spring Framework Overview
-- [ ] III. Core Technologies
+- [X] III. Core Technologies
     - [X] 1.The IOC Container
     - [X] 2.Resources
     - [X] 3.Validation,Data Binding,and Type Conversion
@@ -26,8 +26,8 @@ Spring Framework Documentation 5.1.8.RELEASE 中文翻译版本
     - [X] 5.Aspect Oriented Programming with Spring
     - [X] 6.Spring AOP APIs
     - [X] 7.Null-safety
-    - [ ] 8.Data Buffers and Codecs
-    - [ ] 9.Appendix 
+    - [X] 8.Data Buffers and Codecs
+    - [X] 9.Appendix 
 - [ ] IV. Testing
 - [ ] V. Data Access
 - [ ] VI. Web on Servlet Stack
