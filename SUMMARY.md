@@ -82,6 +82,7 @@
         * [3.1概览](Testing/3.1Overview.md) 
         * [3.2集成测试的目的](Testing/3.2Goals-of-Integration-Testing.md)
         * [3.3JDBC测试支持](Testing/3.3JDBC-Testing-Support.md)
+        * [3.4注解](Testing/3.4Annotations.md)
    * [4.更多资源]()   
 * [数据访问]()
     * [1.事务管理]()
