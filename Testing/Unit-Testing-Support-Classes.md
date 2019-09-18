@@ -14,7 +14,7 @@ ReflectionTestUtils是基于反射的实用程序方法的集合。您可以在�
 
 * 容忍私有或受保护字段访问的ORM框架（例如JPA和Hibernate），而不是域实体中属性的公共setter方法。
 
-* Spring支持注解（例如@ Autowired，@ Inject和@Resource），它们为私有或受保护字段，setter方法和配置方法提供依赖注入。
+* Spring支持注解（例如@Autowired，@Inject和@Resource），它们为私有或受保护字段，setter方法和配置方法提供依赖注入。
 
 * 使用@PostConstruct和@PreDestroy等注解进行生命周期回调方法。
 
