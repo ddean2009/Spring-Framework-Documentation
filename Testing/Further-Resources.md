@@ -4,7 +4,7 @@
 
 * JUnit：“面向程序员的Java测试框架”。由Spring Framework在其测试套件中使用。
 
-* TestNG：受JUnit启发的测试框架，增加了对注释，测试组，数据驱动测试，分布式测试和其他功能的支持。
+* TestNG：受JUnit启发的测试框架，增加了对注解，测试组，数据驱动测试，分布式测试和其他功能的支持。
 
 * AssertJ：“流畅的Java断言”，包括对Java 8 lambdas，流和其他功能的支持。
 
