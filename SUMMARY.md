@@ -94,6 +94,7 @@
       * [3.1选择JDBC数据库访问方法](DataAccess/3.1Choosing-JDBC-Database-Access.md) 
       * [3.2包层次结构](DataAccess/3.2Package-Hierarchy.md)
       * [3.3使用JDBC核心类控制基本JDBC处理和错误处理](DataAccess/3.3JDBC-Core-Classes.md)
+      * [3.4控制数据库连接](DataAccess/3.4Controlling-Database-Connections.md)
     * [4.ORM]()
     * [5.使用Object-XML映射封装XML]()
     * [6.附录]()
