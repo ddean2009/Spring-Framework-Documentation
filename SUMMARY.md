@@ -95,6 +95,7 @@
       * [3.2包层次结构](DataAccess/3.2Package-Hierarchy.md)
       * [3.3使用JDBC核心类控制基本JDBC处理和错误处理](DataAccess/3.3JDBC-Core-Classes.md)
       * [3.4控制数据库连接](DataAccess/3.4Controlling-Database-Connections.md)
+      * [3.5JDBC批处理操作](DataAccess/3.5JDBC-Batch-Operations.md)
     * [4.ORM]()
     * [5.使用Object-XML映射封装XML]()
     * [6.附录]()
