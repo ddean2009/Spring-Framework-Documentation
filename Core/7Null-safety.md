@@ -1,6 +1,6 @@
 # 7 Null-safety
 
-虽然Java不允许用它的类型系统来表示null-safety，但是Spring框架现在在org.springframework.lang包中提供以下注解，以允许您声明API和字段的可空性：
+虽然Java不允许用它的类型系统来表示null-safety，但是Spring框架现在在org.springframework.lang包中提供以下注解，以允许你声明API和字段的可空性：
 
 @Nullable：注解，指示特定参数、返回值或字段可以为空。
 @NonNull：表示特定参数、返回值或字段不能为空的注解（对于分别应用@NonNullApi 和@NonNullFields的参数/返回值和字段不需要）。
