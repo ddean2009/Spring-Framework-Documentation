@@ -99,6 +99,7 @@
       * [3.6使用SimpleJdbc](DataAccess/3.6with-SimpleJdbc.md)
       * [3.7将JDBC操作建模为Java对象](DataAccess/3.7Modeling-JDBC-as-Objects.md)
       * [3.8参数和数据值处理的常见问题](DataAccess/3.8Data-Value-Handling.md)
+      * [3.9嵌入式数据库支持](DataAccess/3.9Embedded-Database-Support.md)
     * [4.ORM]()
     * [5.使用Object-XML映射封装XML]()
     * [6.附录]()
