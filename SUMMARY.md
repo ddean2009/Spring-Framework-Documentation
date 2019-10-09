@@ -103,6 +103,7 @@
       * [3.10初始化数据源](DataAccess/3.10Initializing-a-DataSource.md)
     * [4.ORM](DataAccess/4.0ORM.md)
         * [4.1Spring ORM介绍](DataAccess/4.1Spring-ORM.md)
+        * [4.2ORM集成的一般注意事项](DataAccess/4.2ORM-Integration.md)
     * [5.使用Object-XML映射封装XML]()
     * [6.附录]()
 * [Web Servlet]()
