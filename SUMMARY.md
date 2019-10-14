@@ -104,6 +104,8 @@
     * [4.ORM](DataAccess/4.0ORM.md)
         * [4.1Spring ORM介绍](DataAccess/4.1Spring-ORM.md)
         * [4.2ORM集成的一般注意事项](DataAccess/4.2ORM-Integration.md)
+        * [4.3Hibernate](DataAccess/4.3Hibernate.md)
+        * [4.4JPA](DataAccess/4.4JPA.md)
     * [5.使用Object-XML映射封装XML]()
     * [6.附录]()
 * [Web Servlet]()
