@@ -106,7 +106,7 @@
         * [4.2ORM集成的一般注意事项](DataAccess/4.2ORM-Integration.md)
         * [4.3Hibernate](DataAccess/4.3Hibernate.md)
         * [4.4JPA](DataAccess/4.4JPA.md)
-    * [5.使用Object-XML映射封装XML]()
+    * [5.使用Object-XML映射封装XML](DataAccess/5.Object-XML-Mappers.md)
     * [6.附录]()
 * [Web Servlet]()
     * [1. Spring Web MVC]()
