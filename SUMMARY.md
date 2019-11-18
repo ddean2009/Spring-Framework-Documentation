@@ -107,7 +107,6 @@
         * [4.3Hibernate](DataAccess/4.3Hibernate.md)
         * [4.4JPA](DataAccess/4.4JPA.md)
     * [5.使用Object-XML映射封装XML](DataAccess/5.Object-XML-Mappers.md)
-    * [6.附录]()
 * [Web Servlet]()
     * [1. Spring Web MVC]()
     * [2. REST客户端]()
@@ -129,10 +128,5 @@
     * [6.邮件]()
     * [7.任务执行和计划]()
     * [8.缓存]()
-    * [9.附录]()
-* [语言]()
-    * [1.Kotlin]()
-    * [2.Apache Groovy]()
-    * [3.动态语言支持]()
     
 

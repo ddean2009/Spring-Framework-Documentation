@@ -31,11 +31,10 @@ Spring Framework Documentation 5.1.8.RELEASE 中文翻译版本
     - [X] 8.Data Buffers and Codecs
     - [X] 9.Appendix 
 - [X] IV. Testing
-- [ ] V. Data Access
+- [X] V. Data Access
 - [ ] VI. Web on Servlet Stack
 - [ ] VII. Web on Reactive Stack
 - [ ] VIII. Integration
-- [ ] IX. Language Support
 
     
     
