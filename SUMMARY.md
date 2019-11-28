@@ -137,6 +137,7 @@
       * [1.6 URI Links](WebReactive/1.6URI-Links.md)
       * [1.7 CORS](WebReactive/1.7CORS.md)
       * [1.8 Web Security](WebReactive/1.8Web-Security.md)
+      * [1.9 View Technologies](WebReactive/1.9View-Technologies.md)
     * [2.WebClient]()
     * [3.WebSockets]()
     * [4.测试]()
