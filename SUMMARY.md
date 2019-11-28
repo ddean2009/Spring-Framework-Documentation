@@ -134,6 +134,7 @@
       * [1.3 DispatcherHandler](WebReactive/1.3DispatcherHandler.md)
       * [1.4 Annotated Controllers](WebReactive/1.4Annotated-Controllers.md)
       * [1.5 Functional Endpoints](WebReactive/1.5Functional-Endpoints.md)
+      * [1.6 URI Links](WebReactive/1.6URI-Links.md)
     * [2.WebClient]()
     * [3.WebSockets]()
     * [4.测试]()
