@@ -1,4 +1,4 @@
-# Spring-Framework-Documentation
+# 
 Spring Framework Documentation 5.1.8.RELEASE 中文翻译版本
 
 ![Spring Framework](https://spring.io/img/homepage/icon-spring-framework.svg)
@@ -6,7 +6,7 @@ Spring Framework Documentation 5.1.8.RELEASE 中文翻译版本
 # 如何开始阅读
 
 可访问如下网站地址：
-- https://docs.flydean.com/spring-framework-documentation5-1-8/
+- https://docs.flydean.com/spring-framework-documentation5/
 
 - 更多教程请参考 [flydean的博客](www.flydean.com)
 
