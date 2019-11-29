@@ -144,15 +144,6 @@
     * [2.WebClient](WebReactive/2.WebClient.md)
     * [3.WebSockets](WebReactive/3.WebSockets.md)
     * [4.测试](WebReactive/4.Testing.md)
-    * [5.Reactive库]()
-* [集成]()
-    * [1.远程调用和Web服务]()
-    * [2.EJB]()
-    * [3.JMS]()
-    * [4.JMX]()
-    * [5.JCA CCI]()
-    * [6.邮件]()
-    * [7.任务执行和计划]()
-    * [8.缓存]()
+    * [5.Reactive库](WebReactive/5.Reactive-Libraries.md)
     
 
