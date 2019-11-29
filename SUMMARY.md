@@ -139,6 +139,7 @@
       * [1.8 Web Security](WebReactive/1.8Web-Security.md)
       * [1.9 View Technologies](WebReactive/1.9View-Technologies.md)
       * [1.10 HTTP Caching](WebReactive/1.10HTTP-Caching.md)
+      * [1.11 WebFlux Config](WebReactive/1.11WebFlux-Config.md)
     * [2.WebClient]()
     * [3.WebSockets]()
     * [4.测试]()
