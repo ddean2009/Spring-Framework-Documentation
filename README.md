@@ -32,9 +32,8 @@ Spring Framework Documentation 5.1.8.RELEASE 中文翻译版本
     - [X] 9.Appendix 
 - [X] IV. Testing
 - [X] V. Data Access
-- [ ] VI. Web on Servlet Stack
-- [ ] VII. Web on Reactive Stack
-- [ ] VIII. Integration
+- [X] VI. Web on Servlet Stack
+- [X] VII. Web on Reactive Stack
 
     
     
