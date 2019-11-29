@@ -25,20 +25,20 @@ Spring Framework Documentation 5.X.RELEASE 中文版本
 
 * [x] I. Spring Framework Documentation
 * [x] II. Spring Framework Overview
-* \[X\] III. Core Technologies
-  * \[X\] 1.The IOC Container
-  * \[X\] 2.Resources
-  * \[X\] 3.Validation,Data Binding,and Type Conversion
-  * \[X\] 4.SPEL
-  * \[X\] 5.Aspect Oriented Programming with Spring
-  * \[X\] 6.Spring AOP APIs
-  * \[X\] 7.Null-safety
-  * \[X\] 8.Data Buffers and Codecs
-  * \[X\] 9.Appendix 
-* \[X\] IV. Testing
-* \[X\] V. Data Access
-* \[X\] VI. Web on Servlet Stack
-* \[X\] VII. Web on Reactive Stack
+* [x] III. Core Technologies
+  * [x] 1.The IOC Container
+  * [x] 2.Resources
+  * [x] 3.Validation,Data Binding,and Type Conversion
+  * [x] 4.SPEL
+  * [x] 5.Aspect Oriented Programming with Spring
+  * [x] 6.Spring AOP APIs
+  * [x] 7.Null-safety
+  * [x] 8.Data Buffers and Codecs
+  * [x] 9.Appendix 
+* [x] IV. Testing
+* [x] V. Data Access
+* [x] VI. Web on Servlet Stack
+* [x] VII. Web on Reactive Stack
 
 ### 许可
 
@@ -46,5 +46,5 @@ MIT
 
 ### 更多教程
 
-更多教程请参考 [flydean的博客](https://github.com/ddean2009/Spring-Framework-Documentation/tree/e7e2a90231325b93271b340f33772119529a0f83/www.flydean.com)
+更多教程请参考 [flydean的博客](http://www.flydean.com)
 
