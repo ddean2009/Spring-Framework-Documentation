@@ -48,3 +48,7 @@ MIT
 
 更多教程请参考 [flydean的博客](http://www.flydean.com)
 
+### 编译好的PDF版本下载链接
+
+[Spring5参考指南中文版本](https://github.com/ddean2009/Spring-Framework-Documentation/blob/master/Spring5%E4%B8%AD%E6%96%87%E5%8F%82%E8%80%83%E6%8C%87%E5%8D%97.pdf)
+
