@@ -1,12 +1,12 @@
 ---
-description: 最新的Spring5官方参考指南中文版
+description: 最新的Spring5.1.x官方参考指南中文版
 ---
 
 # 简介
 
 ## Spring5参考指南
 
-Spring Framework Documentation 5.X.RELEASE 中文版本
+Spring Framework Documentation 5.1.X.RELEASE 中文版本
 
 ![Spring Framework](https://spring.io/img/homepage/icon-spring-framework.svg)
 
