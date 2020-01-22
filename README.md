@@ -10,6 +10,8 @@ Spring Framework Documentation 5.1.X.RELEASE 中文版本
 
 ![Spring Framework](https://spring.io/img/homepage/icon-spring-framework.svg)
 
+喜欢的小伙伴右上角可以 **star**  一下，谢谢大家
+
 ## 如何开始阅读
 
 可访问如下网站地址：
